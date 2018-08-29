@@ -1,0 +1,1244 @@
+fileFormatVersion: 2
+guid: 15b0a4260acf44319bddcf8c0b08bcf9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Chips_black_057
+    100002: Chips_black_058
+    100004: Chips_black_059
+    100006: Chips_black_060
+    100008: Chips_black_061
+    100010: Chips_black_062
+    100012: Chips_black_063
+    100014: Chips_black_064
+    100016: Chips_black_065
+    100018: Chips_black_066
+    100020: Chips_black_067
+    100022: Chips_black_068
+    100024: Chips_black_069
+    100026: Chips_black_070
+    100028: Chips_black_071
+    100030: Chips_black_072
+    100032: Chips_black_073
+    100034: Chips_black_074
+    100036: Chips_black_075
+    100038: Chips_black_076
+    100040: Chips_black_077
+    100042: Chips_black_078
+    100044: Chips_black_079
+    100046: Chips_black_080
+    100048: Chips_black_081
+    100050: Chips_black_082
+    100052: Chips_black_083
+    100054: Chips_black_084
+    100056: Chips_black_085
+    100058: Chips_black_086
+    100060: Chips_black_27
+    100062: Chips_blue_024
+    100064: Chips_blue_025
+    100066: Chips_blue_026
+    100068: Chips_blue_027
+    100070: Chips_blue_028
+    100072: Chips_blue_029
+    100074: Chips_blue_030
+    100076: Chips_blue_031
+    100078: Chips_blue_032
+    100080: Chips_blue_033
+    100082: Chips_blue_034
+    100084: Chips_blue_035
+    100086: Chips_blue_036
+    100088: Chips_blue_037
+    100090: Chips_blue_038
+    100092: Chips_blue_039
+    100094: Chips_blue_040
+    100096: Chips_blue_041
+    100098: Chips_blue_042
+    100100: Chips_blue_043
+    100102: Chips_blue_044
+    100104: Chips_blue_22
+    100106: Chips_green_024
+    100108: Chips_green_025
+    100110: Chips_green_026
+    100112: Chips_green_027
+    100114: Chips_green_028
+    100116: Chips_green_029
+    100118: Chips_green_030
+    100120: Chips_green_031
+    100122: Chips_green_032
+    100124: Chips_green_033
+    100126: Chips_green_034
+    100128: Chips_green_035
+    100130: Chips_green_036
+    100132: Chips_green_037
+    100134: Chips_green_038
+    100136: Chips_green_039
+    100138: Chips_green_040
+    100140: Chips_green_041
+    100142: Chips_green_042
+    100144: Chips_green_043
+    100146: Chips_green_044
+    100148: Chips_green_045
+    100150: Chips_green_22
+    100152: Chips_red_018
+    100154: Chips_red_019
+    100156: Chips_red_020
+    100158: Chips_red_021
+    100160: Chips_red_022
+    100162: Chips_red_023
+    100164: Chips_red_024
+    100166: Chips_red_025
+    100168: Chips_red_026
+    100170: Chips_red_027
+    100172: Chips_red_028
+    100174: Chips_red_029
+    100176: Chips_red_030
+    100178: Chips_red_17
+    100180: Chips_white_018
+    100182: Chips_white_019
+    100184: Chips_white_020
+    100186: Chips_white_021
+    100188: Chips_white_022
+    100190: Chips_white_023
+    100192: Chips_white_024
+    100194: Chips_white_025
+    100196: Chips_white_026
+    100198: Chips_white_027
+    100200: Chips_white_028
+    100202: Chips_white_029
+    100204: Chips_white_030
+    100206: Chips_white_031
+    100208: Chips_white_032
+    100210: Chips_white_033
+    100212: Chips_white_17
+    100214: Circle01
+    100216: plastik_card_061
+    100218: plastik_card_062
+    100220: plastik_card_063
+    100222: plastik_card_064
+    100224: plastik_card_065
+    100226: plastik_card_066
+    100228: plastik_card_067
+    100230: plastik_card_068
+    100232: plastik_card_069
+    100234: plastik_card_070
+    100236: plastik_card_071
+    100238: plastik_card_072
+    100240: plastik_card_073
+    100242: plastik_card_074
+    100244: plastik_card_075
+    100246: plastik_card_076
+    100248: plastik_card_077
+    100250: plastik_card_078
+    100252: plastik_card_079
+    100254: plastik_card_080
+    100256: plastik_card_081
+    100258: plastik_card_082
+    100260: plastik_card_083
+    100262: plastik_card_084
+    100264: plastik_card_085
+    100266: plastik_card_086
+    100268: plastik_card_087
+    100270: plastik_card_088
+    100272: plastik_card_089
+    100274: plastik_card_090
+    100276: plastik_card_091
+    100278: plastik_card_092
+    100280: plastik_card_093
+    100282: plastik_card_094
+    100284: plastik_card_095
+    100286: plastik_card_096
+    100288: plastik_card_097
+    100290: plastik_card_098
+    100292: plastik_card_099
+    100294: plastik_card_100
+    100296: plastik_card_101
+    100298: plastik_card_102
+    100300: plastik_card_103
+    100302: plastik_card_104
+    100304: plastik_card_105
+    100306: plastik_card_106
+    100308: plastik_card_107
+    100310: plastik_card_108
+    100312: plastik_card_109
+    100314: plastik_card_110
+    100316: plastik_card_111
+    100318: plastik_card_112
+    100320: //RootNode
+    400000: Chips_black_057
+    400002: Chips_black_058
+    400004: Chips_black_059
+    400006: Chips_black_060
+    400008: Chips_black_061
+    400010: Chips_black_062
+    400012: Chips_black_063
+    400014: Chips_black_064
+    400016: Chips_black_065
+    400018: Chips_black_066
+    400020: Chips_black_067
+    400022: Chips_black_068
+    400024: Chips_black_069
+    400026: Chips_black_070
+    400028: Chips_black_071
+    400030: Chips_black_072
+    400032: Chips_black_073
+    400034: Chips_black_074
+    400036: Chips_black_075
+    400038: Chips_black_076
+    400040: Chips_black_077
+    400042: Chips_black_078
+    400044: Chips_black_079
+    400046: Chips_black_080
+    400048: Chips_black_081
+    400050: Chips_black_082
+    400052: Chips_black_083
+    400054: Chips_black_084
+    400056: Chips_black_085
+    400058: Chips_black_086
+    400060: Chips_black_27
+    400062: Chips_blue_024
+    400064: Chips_blue_025
+    400066: Chips_blue_026
+    400068: Chips_blue_027
+    400070: Chips_blue_028
+    400072: Chips_blue_029
+    400074: Chips_blue_030
+    400076: Chips_blue_031
+    400078: Chips_blue_032
+    400080: Chips_blue_033
+    400082: Chips_blue_034
+    400084: Chips_blue_035
+    400086: Chips_blue_036
+    400088: Chips_blue_037
+    400090: Chips_blue_038
+    400092: Chips_blue_039
+    400094: Chips_blue_040
+    400096: Chips_blue_041
+    400098: Chips_blue_042
+    400100: Chips_blue_043
+    400102: Chips_blue_044
+    400104: Chips_blue_22
+    400106: Chips_green_024
+    400108: Chips_green_025
+    400110: Chips_green_026
+    400112: Chips_green_027
+    400114: Chips_green_028
+    400116: Chips_green_029
+    400118: Chips_green_030
+    400120: Chips_green_031
+    400122: Chips_green_032
+    400124: Chips_green_033
+    400126: Chips_green_034
+    400128: Chips_green_035
+    400130: Chips_green_036
+    400132: Chips_green_037
+    400134: Chips_green_038
+    400136: Chips_green_039
+    400138: Chips_green_040
+    400140: Chips_green_041
+    400142: Chips_green_042
+    400144: Chips_green_043
+    400146: Chips_green_044
+    400148: Chips_green_045
+    400150: Chips_green_22
+    400152: Chips_red_018
+    400154: Chips_red_019
+    400156: Chips_red_020
+    400158: Chips_red_021
+    400160: Chips_red_022
+    400162: Chips_red_023
+    400164: Chips_red_024
+    400166: Chips_red_025
+    400168: Chips_red_026
+    400170: Chips_red_027
+    400172: Chips_red_028
+    400174: Chips_red_029
+    400176: Chips_red_030
+    400178: Chips_red_17
+    400180: Chips_white_018
+    400182: Chips_white_019
+    400184: Chips_white_020
+    400186: Chips_white_021
+    400188: Chips_white_022
+    400190: Chips_white_023
+    400192: Chips_white_024
+    400194: Chips_white_025
+    400196: Chips_white_026
+    400198: Chips_white_027
+    400200: Chips_white_028
+    400202: Chips_white_029
+    400204: Chips_white_030
+    400206: Chips_white_031
+    400208: Chips_white_032
+    400210: Chips_white_033
+    400212: Chips_white_17
+    400214: Circle01
+    400216: plastik_card_061
+    400218: plastik_card_062
+    400220: plastik_card_063
+    400222: plastik_card_064
+    400224: plastik_card_065
+    400226: plastik_card_066
+    400228: plastik_card_067
+    400230: plastik_card_068
+    400232: plastik_card_069
+    400234: plastik_card_070
+    400236: plastik_card_071
+    400238: plastik_card_072
+    400240: plastik_card_073
+    400242: plastik_card_074
+    400244: plastik_card_075
+    400246: plastik_card_076
+    400248: plastik_card_077
+    400250: plastik_card_078
+    400252: plastik_card_079
+    400254: plastik_card_080
+    400256: plastik_card_081
+    400258: plastik_card_082
+    400260: plastik_card_083
+    400262: plastik_card_084
+    400264: plastik_card_085
+    400266: plastik_card_086
+    400268: plastik_card_087
+    400270: plastik_card_088
+    400272: plastik_card_089
+    400274: plastik_card_090
+    400276: plastik_card_091
+    400278: plastik_card_092
+    400280: plastik_card_093
+    400282: plastik_card_094
+    400284: plastik_card_095
+    400286: plastik_card_096
+    400288: plastik_card_097
+    400290: plastik_card_098
+    400292: plastik_card_099
+    400294: plastik_card_100
+    400296: plastik_card_101
+    400298: plastik_card_102
+    400300: plastik_card_103
+    400302: plastik_card_104
+    400304: plastik_card_105
+    400306: plastik_card_106
+    400308: plastik_card_107
+    400310: plastik_card_108
+    400312: plastik_card_109
+    400314: plastik_card_110
+    400316: plastik_card_111
+    400318: plastik_card_112
+    400320: //RootNode
+    2100000: 21 - Default
+    2100002: 19 - Default
+    2100004: 13 - Default
+    2100006: 20 - Default
+    2100008: 14 - Default
+    2100010: 15 - Default
+    2100012: 'Material #14'
+    2100014: 'Material #65'
+    2100016: 01 - Default
+    2100018: 'Material #64'
+    2100020: 'Material #63'
+    2100022: 'Material #62'
+    2100024: 'Material #61'
+    2100026: 'Material #60'
+    2100028: 'Material #59'
+    2100030: 'Material #58'
+    2100032: 'Material #57'
+    2100034: 'Material #56'
+    2100036: 'Material #55'
+    2100038: 'Material #54'
+    2100040: 'Material #53'
+    2100042: 'Material #52'
+    2100044: 'Material #51'
+    2100046: 'Material #50'
+    2100048: 'Material #49'
+    2100050: 'Material #48'
+    2100052: 'Material #47'
+    2100054: 'Material #46'
+    2100056: 'Material #45'
+    2100058: 'Material #44'
+    2100060: 'Material #43'
+    2100062: 'Material #42'
+    2100064: 'Material #41'
+    2100066: 'Material #40'
+    2100068: 'Material #39'
+    2100070: 'Material #38'
+    2100072: 'Material #37'
+    2100074: 'Material #36'
+    2100076: 'Material #35'
+    2100078: 'Material #34'
+    2100080: 'Material #33'
+    2100082: 'Material #32'
+    2100084: 'Material #31'
+    2100086: 'Material #30'
+    2100088: 'Material #29'
+    2100090: 'Material #28'
+    2100092: 'Material #27'
+    2100094: 'Material #26'
+    2100096: 'Material #25'
+    2100098: 'Material #24'
+    2100100: 'Material #23'
+    2100102: 'Material #22'
+    2100104: 'Material #21'
+    2100106: 'Material #20'
+    2100108: 'Material #19'
+    2100110: 'Material #18'
+    2100112: 'Material #17'
+    2100114: 'Material #16'
+    2100116: 'Material #15'
+    2300000: Chips_black_057
+    2300002: Chips_black_058
+    2300004: Chips_black_059
+    2300006: Chips_black_060
+    2300008: Chips_black_061
+    2300010: Chips_black_062
+    2300012: Chips_black_063
+    2300014: Chips_black_064
+    2300016: Chips_black_065
+    2300018: Chips_black_066
+    2300020: Chips_black_067
+    2300022: Chips_black_068
+    2300024: Chips_black_069
+    2300026: Chips_black_070
+    2300028: Chips_black_071
+    2300030: Chips_black_072
+    2300032: Chips_black_073
+    2300034: Chips_black_074
+    2300036: Chips_black_075
+    2300038: Chips_black_076
+    2300040: Chips_black_077
+    2300042: Chips_black_078
+    2300044: Chips_black_079
+    2300046: Chips_black_080
+    2300048: Chips_black_081
+    2300050: Chips_black_082
+    2300052: Chips_black_083
+    2300054: Chips_black_084
+    2300056: Chips_black_085
+    2300058: Chips_black_086
+    2300060: Chips_black_27
+    2300062: Chips_blue_024
+    2300064: Chips_blue_025
+    2300066: Chips_blue_026
+    2300068: Chips_blue_027
+    2300070: Chips_blue_028
+    2300072: Chips_blue_029
+    2300074: Chips_blue_030
+    2300076: Chips_blue_031
+    2300078: Chips_blue_032
+    2300080: Chips_blue_033
+    2300082: Chips_blue_034
+    2300084: Chips_blue_035
+    2300086: Chips_blue_036
+    2300088: Chips_blue_037
+    2300090: Chips_blue_038
+    2300092: Chips_blue_039
+    2300094: Chips_blue_040
+    2300096: Chips_blue_041
+    2300098: Chips_blue_042
+    2300100: Chips_blue_043
+    2300102: Chips_blue_044
+    2300104: Chips_blue_22
+    2300106: Chips_green_024
+    2300108: Chips_green_025
+    2300110: Chips_green_026
+    2300112: Chips_green_027
+    2300114: Chips_green_028
+    2300116: Chips_green_029
+    2300118: Chips_green_030
+    2300120: Chips_green_031
+    2300122: Chips_green_032
+    2300124: Chips_green_033
+    2300126: Chips_green_034
+    2300128: Chips_green_035
+    2300130: Chips_green_036
+    2300132: Chips_green_037
+    2300134: Chips_green_038
+    2300136: Chips_green_039
+    2300138: Chips_green_040
+    2300140: Chips_green_041
+    2300142: Chips_green_042
+    2300144: Chips_green_043
+    2300146: Chips_green_044
+    2300148: Chips_green_045
+    2300150: Chips_green_22
+    2300152: Chips_red_018
+    2300154: Chips_red_019
+    2300156: Chips_red_020
+    2300158: Chips_red_021
+    2300160: Chips_red_022
+    2300162: Chips_red_023
+    2300164: Chips_red_024
+    2300166: Chips_red_025
+    2300168: Chips_red_026
+    2300170: Chips_red_027
+    2300172: Chips_red_028
+    2300174: Chips_red_029
+    2300176: Chips_red_030
+    2300178: Chips_red_17
+    2300180: Chips_white_018
+    2300182: Chips_white_019
+    2300184: Chips_white_020
+    2300186: Chips_white_021
+    2300188: Chips_white_022
+    2300190: Chips_white_023
+    2300192: Chips_white_024
+    2300194: Chips_white_025
+    2300196: Chips_white_026
+    2300198: Chips_white_027
+    2300200: Chips_white_028
+    2300202: Chips_white_029
+    2300204: Chips_white_030
+    2300206: Chips_white_031
+    2300208: Chips_white_032
+    2300210: Chips_white_033
+    2300212: Chips_white_17
+    2300214: Circle01
+    2300216: plastik_card_061
+    2300218: plastik_card_062
+    2300220: plastik_card_063
+    2300222: plastik_card_064
+    2300224: plastik_card_065
+    2300226: plastik_card_066
+    2300228: plastik_card_067
+    2300230: plastik_card_068
+    2300232: plastik_card_069
+    2300234: plastik_card_070
+    2300236: plastik_card_071
+    2300238: plastik_card_072
+    2300240: plastik_card_073
+    2300242: plastik_card_074
+    2300244: plastik_card_075
+    2300246: plastik_card_076
+    2300248: plastik_card_077
+    2300250: plastik_card_078
+    2300252: plastik_card_079
+    2300254: plastik_card_080
+    2300256: plastik_card_081
+    2300258: plastik_card_082
+    2300260: plastik_card_083
+    2300262: plastik_card_084
+    2300264: plastik_card_085
+    2300266: plastik_card_086
+    2300268: plastik_card_087
+    2300270: plastik_card_088
+    2300272: plastik_card_089
+    2300274: plastik_card_090
+    2300276: plastik_card_091
+    2300278: plastik_card_092
+    2300280: plastik_card_093
+    2300282: plastik_card_094
+    2300284: plastik_card_095
+    2300286: plastik_card_096
+    2300288: plastik_card_097
+    2300290: plastik_card_098
+    2300292: plastik_card_099
+    2300294: plastik_card_100
+    2300296: plastik_card_101
+    2300298: plastik_card_102
+    2300300: plastik_card_103
+    2300302: plastik_card_104
+    2300304: plastik_card_105
+    2300306: plastik_card_106
+    2300308: plastik_card_107
+    2300310: plastik_card_108
+    2300312: plastik_card_109
+    2300314: plastik_card_110
+    2300316: plastik_card_111
+    2300318: plastik_card_112
+    3300000: Chips_black_057
+    3300002: Chips_black_058
+    3300004: Chips_black_059
+    3300006: Chips_black_060
+    3300008: Chips_black_061
+    3300010: Chips_black_062
+    3300012: Chips_black_063
+    3300014: Chips_black_064
+    3300016: Chips_black_065
+    3300018: Chips_black_066
+    3300020: Chips_black_067
+    3300022: Chips_black_068
+    3300024: Chips_black_069
+    3300026: Chips_black_070
+    3300028: Chips_black_071
+    3300030: Chips_black_072
+    3300032: Chips_black_073
+    3300034: Chips_black_074
+    3300036: Chips_black_075
+    3300038: Chips_black_076
+    3300040: Chips_black_077
+    3300042: Chips_black_078
+    3300044: Chips_black_079
+    3300046: Chips_black_080
+    3300048: Chips_black_081
+    3300050: Chips_black_082
+    3300052: Chips_black_083
+    3300054: Chips_black_084
+    3300056: Chips_black_085
+    3300058: Chips_black_086
+    3300060: Chips_black_27
+    3300062: Chips_blue_024
+    3300064: Chips_blue_025
+    3300066: Chips_blue_026
+    3300068: Chips_blue_027
+    3300070: Chips_blue_028
+    3300072: Chips_blue_029
+    3300074: Chips_blue_030
+    3300076: Chips_blue_031
+    3300078: Chips_blue_032
+    3300080: Chips_blue_033
+    3300082: Chips_blue_034
+    3300084: Chips_blue_035
+    3300086: Chips_blue_036
+    3300088: Chips_blue_037
+    3300090: Chips_blue_038
+    3300092: Chips_blue_039
+    3300094: Chips_blue_040
+    3300096: Chips_blue_041
+    3300098: Chips_blue_042
+    3300100: Chips_blue_043
+    3300102: Chips_blue_044
+    3300104: Chips_blue_22
+    3300106: Chips_green_024
+    3300108: Chips_green_025
+    3300110: Chips_green_026
+    3300112: Chips_green_027
+    3300114: Chips_green_028
+    3300116: Chips_green_029
+    3300118: Chips_green_030
+    3300120: Chips_green_031
+    3300122: Chips_green_032
+    3300124: Chips_green_033
+    3300126: Chips_green_034
+    3300128: Chips_green_035
+    3300130: Chips_green_036
+    3300132: Chips_green_037
+    3300134: Chips_green_038
+    3300136: Chips_green_039
+    3300138: Chips_green_040
+    3300140: Chips_green_041
+    3300142: Chips_green_042
+    3300144: Chips_green_043
+    3300146: Chips_green_044
+    3300148: Chips_green_045
+    3300150: Chips_green_22
+    3300152: Chips_red_018
+    3300154: Chips_red_019
+    3300156: Chips_red_020
+    3300158: Chips_red_021
+    3300160: Chips_red_022
+    3300162: Chips_red_023
+    3300164: Chips_red_024
+    3300166: Chips_red_025
+    3300168: Chips_red_026
+    3300170: Chips_red_027
+    3300172: Chips_red_028
+    3300174: Chips_red_029
+    3300176: Chips_red_030
+    3300178: Chips_red_17
+    3300180: Chips_white_018
+    3300182: Chips_white_019
+    3300184: Chips_white_020
+    3300186: Chips_white_021
+    3300188: Chips_white_022
+    3300190: Chips_white_023
+    3300192: Chips_white_024
+    3300194: Chips_white_025
+    3300196: Chips_white_026
+    3300198: Chips_white_027
+    3300200: Chips_white_028
+    3300202: Chips_white_029
+    3300204: Chips_white_030
+    3300206: Chips_white_031
+    3300208: Chips_white_032
+    3300210: Chips_white_033
+    3300212: Chips_white_17
+    3300214: Circle01
+    3300216: plastik_card_061
+    3300218: plastik_card_062
+    3300220: plastik_card_063
+    3300222: plastik_card_064
+    3300224: plastik_card_065
+    3300226: plastik_card_066
+    3300228: plastik_card_067
+    3300230: plastik_card_068
+    3300232: plastik_card_069
+    3300234: plastik_card_070
+    3300236: plastik_card_071
+    3300238: plastik_card_072
+    3300240: plastik_card_073
+    3300242: plastik_card_074
+    3300244: plastik_card_075
+    3300246: plastik_card_076
+    3300248: plastik_card_077
+    3300250: plastik_card_078
+    3300252: plastik_card_079
+    3300254: plastik_card_080
+    3300256: plastik_card_081
+    3300258: plastik_card_082
+    3300260: plastik_card_083
+    3300262: plastik_card_084
+    3300264: plastik_card_085
+    3300266: plastik_card_086
+    3300268: plastik_card_087
+    3300270: plastik_card_088
+    3300272: plastik_card_089
+    3300274: plastik_card_090
+    3300276: plastik_card_091
+    3300278: plastik_card_092
+    3300280: plastik_card_093
+    3300282: plastik_card_094
+    3300284: plastik_card_095
+    3300286: plastik_card_096
+    3300288: plastik_card_097
+    3300290: plastik_card_098
+    3300292: plastik_card_099
+    3300294: plastik_card_100
+    3300296: plastik_card_101
+    3300298: plastik_card_102
+    3300300: plastik_card_103
+    3300302: plastik_card_104
+    3300304: plastik_card_105
+    3300306: plastik_card_106
+    3300308: plastik_card_107
+    3300310: plastik_card_108
+    3300312: plastik_card_109
+    3300314: plastik_card_110
+    3300316: plastik_card_111
+    3300318: plastik_card_112
+    4300000: Circle01
+    4300002: Chips_green_22
+    4300004: Chips_black_27
+    4300006: Chips_blue_22
+    4300008: Chips_white_17
+    4300010: Chips_red_17
+    4300012: Chips_green_024
+    4300014: Chips_green_025
+    4300016: Chips_green_026
+    4300018: Chips_green_027
+    4300020: Chips_green_028
+    4300022: Chips_green_029
+    4300024: Chips_green_030
+    4300026: Chips_green_031
+    4300028: Chips_green_032
+    4300030: Chips_green_033
+    4300032: Chips_green_034
+    4300034: Chips_green_035
+    4300036: Chips_green_036
+    4300038: Chips_green_037
+    4300040: Chips_green_038
+    4300042: Chips_green_039
+    4300044: Chips_green_040
+    4300046: Chips_green_041
+    4300048: Chips_green_042
+    4300050: Chips_green_043
+    4300052: Chips_black_057
+    4300054: Chips_black_058
+    4300056: Chips_black_059
+    4300058: Chips_black_060
+    4300060: Chips_black_061
+    4300062: Chips_black_062
+    4300064: Chips_black_063
+    4300066: Chips_black_064
+    4300068: Chips_black_065
+    4300070: Chips_black_066
+    4300072: Chips_black_067
+    4300074: Chips_black_068
+    4300076: Chips_black_069
+    4300078: Chips_black_070
+    4300080: Chips_black_071
+    4300082: Chips_black_072
+    4300084: Chips_black_073
+    4300086: Chips_black_074
+    4300088: Chips_black_075
+    4300090: Chips_black_076
+    4300092: Chips_black_077
+    4300094: Chips_black_078
+    4300096: Chips_white_018
+    4300098: Chips_white_019
+    4300100: Chips_white_020
+    4300102: Chips_white_021
+    4300104: Chips_white_022
+    4300106: Chips_white_023
+    4300108: Chips_white_024
+    4300110: Chips_white_025
+    4300112: Chips_white_026
+    4300114: Chips_white_027
+    4300116: Chips_white_028
+    4300118: Chips_white_029
+    4300120: Chips_white_030
+    4300122: Chips_white_031
+    4300124: Chips_white_032
+    4300126: Chips_red_018
+    4300128: Chips_red_019
+    4300130: Chips_red_020
+    4300132: Chips_red_021
+    4300134: Chips_red_022
+    4300136: Chips_red_023
+    4300138: Chips_red_024
+    4300140: Chips_red_025
+    4300142: Chips_red_026
+    4300144: Chips_red_027
+    4300146: Chips_red_028
+    4300148: Chips_red_029
+    4300150: Chips_green_044
+    4300152: Chips_green_045
+    4300154: Chips_blue_024
+    4300156: Chips_blue_025
+    4300158: Chips_blue_026
+    4300160: Chips_blue_027
+    4300162: Chips_blue_028
+    4300164: Chips_blue_029
+    4300166: Chips_blue_030
+    4300168: Chips_blue_031
+    4300170: Chips_blue_032
+    4300172: Chips_blue_033
+    4300174: Chips_blue_034
+    4300176: Chips_blue_035
+    4300178: Chips_blue_036
+    4300180: Chips_blue_037
+    4300182: Chips_blue_038
+    4300184: Chips_blue_039
+    4300186: Chips_blue_040
+    4300188: Chips_blue_041
+    4300190: Chips_blue_042
+    4300192: Chips_blue_043
+    4300194: Chips_blue_044
+    4300196: Chips_red_030
+    4300198: Chips_black_079
+    4300200: Chips_black_080
+    4300202: Chips_white_033
+    4300204: Chips_black_081
+    4300206: Chips_black_082
+    4300208: Chips_black_083
+    4300210: Chips_black_084
+    4300212: Chips_black_085
+    4300214: Chips_black_086
+    4300216: plastik_card_061
+    4300218: plastik_card_062
+    4300220: plastik_card_063
+    4300222: plastik_card_064
+    4300224: plastik_card_065
+    4300226: plastik_card_066
+    4300228: plastik_card_067
+    4300230: plastik_card_068
+    4300232: plastik_card_069
+    4300234: plastik_card_070
+    4300236: plastik_card_071
+    4300238: plastik_card_072
+    4300240: plastik_card_073
+    4300242: plastik_card_074
+    4300244: plastik_card_075
+    4300246: plastik_card_076
+    4300248: plastik_card_077
+    4300250: plastik_card_078
+    4300252: plastik_card_079
+    4300254: plastik_card_080
+    4300256: plastik_card_081
+    4300258: plastik_card_082
+    4300260: plastik_card_083
+    4300262: plastik_card_084
+    4300264: plastik_card_085
+    4300266: plastik_card_086
+    4300268: plastik_card_087
+    4300270: plastik_card_088
+    4300272: plastik_card_089
+    4300274: plastik_card_090
+    4300276: plastik_card_091
+    4300278: plastik_card_092
+    4300280: plastik_card_093
+    4300282: plastik_card_094
+    4300284: plastik_card_095
+    4300286: plastik_card_096
+    4300288: plastik_card_097
+    4300290: plastik_card_098
+    4300292: plastik_card_099
+    4300294: plastik_card_100
+    4300296: plastik_card_101
+    4300298: plastik_card_102
+    4300300: plastik_card_103
+    4300302: plastik_card_104
+    4300304: plastik_card_105
+    4300306: plastik_card_106
+    4300308: plastik_card_107
+    4300310: plastik_card_108
+    4300312: plastik_card_109
+    4300314: plastik_card_110
+    4300316: plastik_card_111
+    4300318: plastik_card_112
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: 89b608c1f25994c8e91ffb69ed75ae1d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 100
+    second: {fileID: 2800000, guid: f65815ebabf144831a9a81b76941459f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 25
+    second: {fileID: 2800000, guid: 5acfe046718fe4d899f970eaaf292ff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: 52955ac33aa8c4cbf88d8c3916395fe2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 50
+    second: {fileID: 2800000, guid: 21df01b98fd304b1bba9f2947ad1898a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: DEA
+    second: {fileID: 2800000, guid: f8b3406bb0bfe421e848c3086443926c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: backside
+    second: {fileID: 2800000, guid: e4e9a7887ec244b9da66b2126fd28995, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c10
+    second: {fileID: 2800000, guid: caad913f9a18a494ca8cdad8fcf57d06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c2
+    second: {fileID: 2800000, guid: 9e5ef8ae7410540c3aadf20223c150fc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c3
+    second: {fileID: 2800000, guid: 679263842de4a46d6aee53cd5e7d235a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c4
+    second: {fileID: 2800000, guid: 59e9aaf0cbe4c4e148a373b0292116bf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c5
+    second: {fileID: 2800000, guid: 30ffbaa2f1fa74224b8935508dc35377, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c6
+    second: {fileID: 2800000, guid: ab4e83c3fd29849a9bd531316e9fbe2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c7
+    second: {fileID: 2800000, guid: 20193dbed16d449c9aee131530020edf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c8
+    second: {fileID: 2800000, guid: 72609483e2dc64f7cae5f599b799e7c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c9
+    second: {fileID: 2800000, guid: 54d370931f80543babd055ef0fa5761d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ca
+    second: {fileID: 2800000, guid: 60678ea640dfe4ca08a16986d43f44c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cj
+    second: {fileID: 2800000, guid: 75bf1edd4e943431d99c5a1407d8aa76, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ck
+    second: {fileID: 2800000, guid: 4e8e2878eca424635aec38ed2ac7928d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: cq
+    second: {fileID: 2800000, guid: 64071844c8e3444a58e4339072e80956, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e10
+    second: {fileID: 2800000, guid: 62f1dd7e41ef4434ebb7e5b096180a54, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e2
+    second: {fileID: 2800000, guid: b889dc56b85d44f64865074d1cbfc8a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e3
+    second: {fileID: 2800000, guid: 2ca65f34dcb664594a5a1b80dfc17eef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e4
+    second: {fileID: 2800000, guid: f1dccf6777b1f492fbf16cd86417a444, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e5
+    second: {fileID: 2800000, guid: 4b446fe75033b49a598f459a5939503b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e6
+    second: {fileID: 2800000, guid: d5a834e3e056c491ebd4c7e2cc6111be, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e7
+    second: {fileID: 2800000, guid: 1c2baf0750c1a42be89b85606afa6632, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e8
+    second: {fileID: 2800000, guid: d28a0b9f546b345ca98f2e2f8c511c08, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: e9
+    second: {fileID: 2800000, guid: de13932202cd1489a89a34d76349f1bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ea
+    second: {fileID: 2800000, guid: 1f115551f18d6408aa21bac5d5f8aad9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ej
+    second: {fileID: 2800000, guid: 3d1fa660fad394d51ab68eec07ce0b87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ek
+    second: {fileID: 2800000, guid: 42d43422a258e4569a77e02eca0ac9fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: eq
+    second: {fileID: 2800000, guid: 0769cfaf1bc7747d99bf76452036df16, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h10
+    second: {fileID: 2800000, guid: 4bf3b5489cfb940fba314949a61319a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h2
+    second: {fileID: 2800000, guid: 9e483951d50a440c199635ee6c03da26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h3
+    second: {fileID: 2800000, guid: 4db4431e477fe4021aa793bb7781fb0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h4
+    second: {fileID: 2800000, guid: 0cde14e050bbf4ffeaf5719f095a5c41, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h5
+    second: {fileID: 2800000, guid: 053fc2cdfce6a4f9c90253bf481e17af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h6
+    second: {fileID: 2800000, guid: 07443b3b41b4a4bd5b9bce31c642f6cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h7
+    second: {fileID: 2800000, guid: 2ecee19ae79ac417e9cfaba5eb8718f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h8
+    second: {fileID: 2800000, guid: b1b1f1fcba15142c4b7ea58407f75174, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: h9
+    second: {fileID: 2800000, guid: 706c33af261e44b109b2799d3d1ff44e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ha
+    second: {fileID: 2800000, guid: eb1eb07c1af9246bab1424f7ecae38b7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hj
+    second: {fileID: 2800000, guid: d5de5877d1bd84baba078991a0eecd99, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hk
+    second: {fileID: 2800000, guid: 9f51bd570ad1c449bb48605b84756291, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: hq
+    second: {fileID: 2800000, guid: ded4472defa0d4b6493e6ed77af44e11, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r10
+    second: {fileID: 2800000, guid: 245d007f3bcb242fb9cd86b1150318f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r2
+    second: {fileID: 2800000, guid: 6c667a8b7c6064b3fb44443569b38fff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r3
+    second: {fileID: 2800000, guid: 10a73ffcfef0649f4bdf6b684cd9ad6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r4
+    second: {fileID: 2800000, guid: e2f11a01429c34589b0d1c90e83cd49e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r5
+    second: {fileID: 2800000, guid: d9f3a6e274787490fa6e1c805313a6d2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r6
+    second: {fileID: 2800000, guid: bb9c78aabebdf46e7a74c3922dcbc175, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r7
+    second: {fileID: 2800000, guid: a07208c0797114087882c0888267a221, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r8
+    second: {fileID: 2800000, guid: a6402336a5c3d47f3b396a48afa34217, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: r9
+    second: {fileID: 2800000, guid: bf15b7c11e74846408a8e8c1b1e38bc3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ra
+    second: {fileID: 2800000, guid: 8977d129ed790412da46890aa9b78368, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rj
+    second: {fileID: 2800000, guid: 7a9fe95273be0475cba5d338f1152b5b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rk
+    second: {fileID: 2800000, guid: 40c8a524e462549dc93c52754b0e0830, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: rq
+    second: {fileID: 2800000, guid: 57027cf8d05cc4ef3bab9608c8b8c3bc, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

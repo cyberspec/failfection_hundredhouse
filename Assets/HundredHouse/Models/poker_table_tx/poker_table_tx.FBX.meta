@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 9a29344431ce843ac967ce2b9f76d1a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder018
+    100004: Cylinder019
+    100006: Cylinder020
+    100008: Cylinder021
+    100010: Cylinder022
+    100012: Cylinder023
+    100014: Cylinder024
+    100016: Cylinder025
+    100018: Cylinder026
+    100020: Cylinder027
+    100022: Cylinder028
+    100024: Cylinder029
+    100026: Cylinder030
+    100028: Cylinder031
+    100030: Cylinder032
+    100032: Cylinder033
+    100034: Cylinder034
+    100036: Group006
+    100038: Group007
+    100040: Group008
+    100042: Group009
+    100044: Group010
+    100046: //RootNode
+    100048: Torus002
+    100050: Torus003
+    100052: Tube002
+    400000: Cylinder001
+    400002: Cylinder018
+    400004: Cylinder019
+    400006: Cylinder020
+    400008: Cylinder021
+    400010: Cylinder022
+    400012: Cylinder023
+    400014: Cylinder024
+    400016: Cylinder025
+    400018: Cylinder026
+    400020: Cylinder027
+    400022: Cylinder028
+    400024: Cylinder029
+    400026: Cylinder030
+    400028: Cylinder031
+    400030: Cylinder032
+    400032: Cylinder033
+    400034: Cylinder034
+    400036: Group006
+    400038: Group007
+    400040: Group008
+    400042: Group009
+    400044: Group010
+    400046: //RootNode
+    400048: Torus002
+    400050: Torus003
+    400052: Tube002
+    2100000: No Name
+    2100002: 'Material #18'
+    2100004: 'Material #11'
+    2100006: 'Material #13'
+    2100008: 01 - Default
+    2100010: 'Material #12'
+    2300000: Cylinder001
+    2300002: Cylinder018
+    2300004: Cylinder019
+    2300006: Cylinder020
+    2300008: Cylinder021
+    2300010: Cylinder022
+    2300012: Cylinder023
+    2300014: Cylinder024
+    2300016: Cylinder025
+    2300018: Cylinder026
+    2300020: Cylinder027
+    2300022: Cylinder028
+    2300024: Cylinder029
+    2300026: Cylinder030
+    2300028: Cylinder031
+    2300030: Cylinder032
+    2300032: Cylinder033
+    2300034: Cylinder034
+    2300036: Torus002
+    2300038: Torus003
+    2300040: Tube002
+    3300000: Cylinder001
+    3300002: Cylinder018
+    3300004: Cylinder019
+    3300006: Cylinder020
+    3300008: Cylinder021
+    3300010: Cylinder022
+    3300012: Cylinder023
+    3300014: Cylinder024
+    3300016: Cylinder025
+    3300018: Cylinder026
+    3300020: Cylinder027
+    3300022: Cylinder028
+    3300024: Cylinder029
+    3300026: Cylinder030
+    3300028: Cylinder031
+    3300030: Cylinder032
+    3300032: Cylinder033
+    3300034: Cylinder034
+    3300036: Torus002
+    3300038: Torus003
+    3300040: Tube002
+    4300000: Torus002
+    4300002: Cylinder019
+    4300004: Cylinder020
+    4300006: Cylinder021
+    4300008: Cylinder022
+    4300010: Cylinder023
+    4300012: Cylinder024
+    4300014: Cylinder018
+    4300016: Tube002
+    4300018: Cylinder025
+    4300020: Cylinder026
+    4300022: Cylinder027
+    4300024: Cylinder028
+    4300026: Cylinder029
+    4300028: Cylinder030
+    4300030: Cylinder031
+    4300032: Cylinder032
+    4300034: Cylinder033
+    4300036: Cylinder034
+    4300038: Torus003
+    4300040: Cylinder001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 73332f8d98204448ba656b6c7a2c3adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #11'
+    second: {fileID: 2100000, guid: 1d2150b0c0a27485cb60c7535701283d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #12'
+    second: {fileID: 2100000, guid: bf3a36c80c82c45f9b889c77206b4939, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #13'
+    second: {fileID: 2100000, guid: f78f8930bf0884c92823851fbcfcf4db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #18'
+    second: {fileID: 2100000, guid: f752c5b14de824955ad34e2dc962e5a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: e89115c806cd8437fbf711389c1492e2, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30
+    second: {fileID: 2800000, guid: 0c0c793bde615429f9078a9d61206a17, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
